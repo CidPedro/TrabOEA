@@ -1,5 +1,3 @@
-package pkg;
-
 import java.io.RandomAccessFile;
 import java.util.Random;
 
